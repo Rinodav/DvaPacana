@@ -1,6 +1,10 @@
-<script setup></script>
+<script setup>
+import DvaPacana from "./components/DvaPacana.vue";
+</script>
 
-<template></template>
+<template>
+  <DvaPacana />
+</template>
 
 <style scoped>
 .logo {
